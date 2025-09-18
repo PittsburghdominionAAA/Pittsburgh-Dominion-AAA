@@ -61,3 +61,12 @@ footer {
   padding: 20px;
   font-size: 0.9em;
 }
+
+.hero-logo {
+  display: block;
+  margin: 0 auto 30px auto;
+  max-width: 500px;
+  width: 90%;
+  height: auto;
+}
+
