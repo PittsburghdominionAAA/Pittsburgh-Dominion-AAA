@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #001f4d;
+  color: white;
+  padding: 20px;
+}
+
+.logo {
+  width: 100px;
+}
+
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero {
+  background-color: #003366;
+  color: white;
+  padding: 40px 20px;
+}
+
+.about, .news, .roster, .schedule, .gallery {
+  padding: 20px;
+}
+
+footer {
+  background-color: #001f4d;
+  color: white;
+  padding: 10px;
+}
+
+body.blue {
+  background-color: #e6f0ff;
+}
+
+body.white {
+  background-color: #f9f9f9;
+}
